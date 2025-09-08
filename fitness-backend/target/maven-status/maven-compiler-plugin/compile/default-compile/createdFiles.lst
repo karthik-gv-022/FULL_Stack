@@ -1,0 +1,10 @@
+com\example\fitness_backend\controller\WorkoutController.class
+com\example\fitness_backend\entity\Workout.class
+com\example\fitness_backend\models\User.class
+com\example\fitness_backend\service\UserService.class
+com\example\fitness_backend\FitnessBackendApplication.class
+com\example\fitness_backend\controller\UserController.class
+com\example\fitness_backend\repository\WorkoutRepository.class
+com\example\fitness_backend\service\WorkoutService.class
+com\example\fitness_backend\entity\User.class
+com\example\fitness_backend\repository\UserRepository.class
